@@ -26,9 +26,7 @@
         margin: 0;
     }
 </style>
-
-
-
+<br>
 # Education / Certifications
   - [Credly Badget Wallet](https://www.credly.com/users/ricardo-ferreira.1f231eb7)
   - [Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/KUM1UREERX8W)
