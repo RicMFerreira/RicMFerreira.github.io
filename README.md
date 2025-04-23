@@ -2,9 +2,9 @@
 
 ## Projects
 ### Project 1
-
-[SpaceX - Machine Learning Project](https://github.com/RicMFerreira/SpaceX-Machine_learning)
 <img src="/docs/assets/img/spacex.svg" width="300" />
+[SpaceX - Machine Learning Project](https://github.com/RicMFerreira/SpaceX-Machine_learning)
+
 
 - [Description](https://github.com/RicMFerreira/SpaceX-Machine_learning/blob/main/README.md)
   
