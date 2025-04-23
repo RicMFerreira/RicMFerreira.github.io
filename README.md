@@ -1,5 +1,8 @@
 # Contacts
 <div style="display: flex; gap: 50px;">
+  <a href="https://github.com/RicMFerreira" target="_blank" rel="noopener noreferrer">
+    <img src="/docs/assets/img/github.png" width="50" />
+  </a>
   <a href="https://www.linkedin.com/in/ricardo-ferreira-985b8170/" target="_blank" rel="noopener noreferrer">
     <img src="/docs/assets/img/linkedin.png" width="50" />
   </a>
