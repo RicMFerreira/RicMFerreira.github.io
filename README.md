@@ -3,14 +3,12 @@
   <a href="https://www.kaggle.com/ricmferreira" target="_blank" rel="noopener noreferrer">
     <img src="/docs/assets/img/kaggle.png" width="50" style="border: 2px solid black; border-radius: 10px; box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);" />
   </a>
-  </a>
   <a href="https://github.com/RicMFerreira" target="_blank" rel="noopener noreferrer">
     <img src="/docs/assets/img/github.png" width="50" style="border: 2px solid black; border-radius: 10px; box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);" />
   </a>
   <a href="https://www.linkedin.com/in/ricardo-ferreira-985b8170/" target="_blank" rel="noopener noreferrer">
     <img src="/docs/assets/img/linkedin.png" width="50" style="border: 2px solid black; border-radius: 10px; box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);" />
   </a>
-
   <a href="mailto:ricardoferreira.rmf@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="/docs/assets/img/gmail.webp" width="50" style="border: 2px solid black; border-radius: 10px; box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);" />
   </a>
