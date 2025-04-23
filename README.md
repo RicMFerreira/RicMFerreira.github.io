@@ -2,14 +2,13 @@
 As a skilled data professional with a proven ability to transform complex datasets into actionable insights,I transform raw datasets into meaningful insights that empower organisations to strategise and succeed, with proficiency in tools like Power BI, Python, and SQL, I design advanced visualisations, create intuitive dashboards, and deliver impactful reports that drive data-backed decisions.
 
 # Degree / Certifications / Digital Badges
-
-  - Master's degree in Civil Engineering
-  - Studied towards a Master's degree in Informatics Engineering, with partial completion
   - [Credly Badget Wallet](https://www.credly.com/users/ricardo-ferreira.1f231eb7)
-  - [IBM Data Science](https://www.coursera.org/account/accomplishments/professional-cert/73LM6HYD1I4C)
-  - [IBM Data Analyst](https://www.coursera.org/account/accomplishments/professional-cert/LKJ7O9S24KQT)
   - [Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/KUM1UREERX8W)
   - [Microsoft Power BI Data Analyst](https://www.coursera.org/account/accomplishments/professional-cert/GAZLL2VE9XAM)
+  - [IBM Data Science](https://www.coursera.org/account/accomplishments/professional-cert/73LM6HYD1I4C)
+  - [IBM Data Analyst](https://www.coursera.org/account/accomplishments/professional-cert/LKJ7O9S24KQT)
+  - Studied towards a Bachelor's degree in Informatics Engineering, with partial completion @ [ISEC - More Details](https://www.ipc.pt/en/formative-offer/isec/bachelor/bachelor-in-informatics-engineering/)
+  - Bachelor's degree in Civil Engineering @ [ISEC - More Details](https://www.ipc.pt/en/formative-offer/isec/bachelor/bachelor-in-civil-enginnering/)
   
 
 # Projects
