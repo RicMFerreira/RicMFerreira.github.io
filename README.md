@@ -12,10 +12,11 @@
 # Project Portfolio
 
 Explore my projects! Click the images below to open the Jupyter Notebooks.
+##Space X
 
 | Project 1 | Project 2 |
 |-----------|-----------|
-| [![Project 1](docs/assets/git.jpg)](https://github.com/RicMFerreira/Coursera-Data-Science-Capstone/blob/main/M4-2-SpaceX_Machine%20Learning%20Prediction_Part_5.ipynb)) | [![Project 2](images/project2.png)](notebooks/project2.ipynb) |
+| [![Project 1](docs/assets/img/spacex.svg)](https://github.com/RicMFerreira/Coursera-Data-Science-Capstone/blob/main/M4-2-SpaceX_Machine%20Learning%20Prediction_Part_5.ipynb)) | [![Project 2](images/project2.png)](notebooks/project2.ipynb) |
 
 | Project 3 | Project 4 |
 |-----------|-----------|
