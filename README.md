@@ -1,7 +1,7 @@
 # Contacts
-[<img src="/docs/assets/img/linkedin.png" width="300" />](https://www.linkedin.com/in/ricardo-ferreira-985b8170/)
-[<img src="/docs/assets/img/kaggle.png" width="300" />](https://www.kaggle.com/ricmferreira)
-
+[<img src="/docs/assets/img/linkedin.png" width="50" />](https://www.linkedin.com/in/ricardo-ferreira-985b8170/)
+[<img src="/docs/assets/img/kaggle.png" width="50" />](https://www.kaggle.com/ricmferreira)
+[<img src="/docs/assets/img/gmail.webp" width="50" />](ricardoferreira.rmf@gmail.com)
 Please click on icon above
 
 # About Me
