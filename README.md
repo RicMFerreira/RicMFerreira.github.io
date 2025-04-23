@@ -2,7 +2,8 @@
 [<img src="/docs/assets/img/linkedin.png" width="50" />](https://www.linkedin.com/in/ricardo-ferreira-985b8170/)
 [<img src="/docs/assets/img/kaggle.png" width="50" />](https://www.kaggle.com/ricmferreira)
 [<img src="/docs/assets/img/gmail.webp" width="50" />](ricardoferreira.rmf@gmail.com)
-Please click on icon above
+
+#### Please click on icon above
 
 # About Me
 As an experienced data professional, I specialise in transforming complex datasets into actionable insights that drive strategic success. Leveraging my expertise in tools such as Power BI, Python, and SQL, I professionally design advanced visualisations, craft intuitive dashboards, and deliver impactful reports that empower organisations to make data-driven decisions.
