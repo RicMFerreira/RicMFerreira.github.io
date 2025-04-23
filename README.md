@@ -3,7 +3,7 @@
 ## Projects
 ### Project 1
 - Description
-- [link](M4-2-SpaceX_Machine Learning Prediction_Part_5.ipynb)
+- [link](https://github.com/RicMFerreira/Coursera-Data-Science-Capstone/blob/main/M4-2-SpaceX_Machine%20Learning%20Prediction_Part_5.ipynb))
 
 ### Project 1
 - Description
