@@ -1,6 +1,7 @@
 title: Ricardo Ferreira
 logo: docs/assets/git.jpg
 description: Data Analyst | Data Scientist | Business Analyst
-show_dowloads: true
+#show_dowloads: true
+show_profile_link: false
 theme: jekyll-theme-minimal
 
