@@ -1,4 +1,5 @@
-# RicMFerreira.github.io
+#About
+As a skilled data professional with a proven ability to transform complex datasets into actionable insights,I transform raw datasets into meaningful insights that empower organisations to strategise and succeed, with proficiency in tools like Power BI, Python, and SQL, I design advanced visualisations, create intuitive dashboards, and deliver impactful reports that drive data-backed decisions.
 
 ## Projects
 <img src="/docs/assets/img/spacex.svg" width="300" />
