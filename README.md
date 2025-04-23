@@ -13,7 +13,7 @@
     <img src="/docs/assets/img/gmail.webp" width="50" style="border: 2px solid black; border-radius: 10px; box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);" />
   </a>
 </div>
-
+<br>
 # About Me
 <div class="justified-text">
         <p>
