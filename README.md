@@ -1,10 +1,16 @@
 # Contacts
-<a href="https://www.linkedin.com/in/ricardo-ferreira-985b8170/" target="_blank" rel="noopener noreferrer">
+<div style="display: flex; gap: 50px;">
+  <a href="https://www.linkedin.com/in/ricardo-ferreira-985b8170/" target="_blank" rel="noopener noreferrer">
     <img src="/docs/assets/img/linkedin.png" width="50" />
-</a>
+  </a>
+  <a href="https://www.kaggle.com/ricmferreira" target="_blank" rel="noopener noreferrer">
+    <img src="/docs/assets/img/kaggle.png" width="50" />
+  </a>
+  <a href="mailto:ricardoferreira.rmf@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="/docs/assets/img/gmail.webp" width="50" />
+  </a>
+</div>
 
-[<img src="/docs/assets/img/kaggle.png" width="50" />](https://www.kaggle.com/ricmferreira)
-[<img src="/docs/assets/img/gmail.webp" width="50" />](mailto:ricardoferreira.rmf@gmail.com)
 
 # About Me
 As an experienced data professional, I specialise in transforming complex datasets into actionable insights that drive strategic success. Leveraging my expertise in tools such as Power BI, Python, and SQL, I professionally design advanced visualisations, craft intuitive dashboards, and deliver impactful reports that empower organisations to make data-driven decisions.
