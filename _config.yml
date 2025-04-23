@@ -3,7 +3,5 @@ logo: docs/assets/git.jpg
 description: Data Analyst | Data Scientist | Business Analyst
 #show_dowloads: true
 show_profile_link: false
-include:
-  - docs/assets/style.css
 theme: jekyll-theme-minimal
 
