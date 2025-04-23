@@ -1,5 +1,5 @@
 # Contacts
-<div style="display: flex; gap: 50px;">
+<div style="display: flex; gap: 15px;">
   <a href="https://github.com/RicMFerreira" target="_blank" rel="noopener noreferrer">
     <img src="/docs/assets/img/github.png" width="50" />
   </a>
