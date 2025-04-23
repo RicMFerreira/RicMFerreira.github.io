@@ -2,9 +2,9 @@
 
 ## Projects
 ### Project 1
--Description
--Links
+- Description
+- Links
 
 ### Project 1
--Description
--Links
+- Description
+- Links
