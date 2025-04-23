@@ -1,7 +1,7 @@
 # About Me
 As an experienced data professional, I specialise in transforming complex datasets into actionable insights that drive strategic success. Leveraging my expertise in tools such as Power BI, Python, and SQL, I professionally design advanced visualisations, craft intuitive dashboards, and deliver impactful reports that empower organisations to make data-driven decisions.
 
-# Degree / Certifications / Digital Badges
+# Education / Certifications
   - [Credly Badget Wallet](https://www.credly.com/users/ricardo-ferreira.1f231eb7)
   - [Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/KUM1UREERX8W)
   - [Microsoft Power BI Data Analyst](https://www.coursera.org/account/accomplishments/professional-cert/GAZLL2VE9XAM)
