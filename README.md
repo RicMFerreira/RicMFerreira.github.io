@@ -42,7 +42,7 @@
 
 [SpaceX - Machine Learning Project Repository](https://github.com/RicMFerreira/SpaceX-Machine_learning)
 
-- Description:
+Description:
   - Repository with Jupyter Notebook files containing:
     -  Data Collection techniques (APIs and BeautifulSoup)
     -  Exploratory Data Analysis (Pandas / SQLite / Matplotlib / Seaborn / Folium)
