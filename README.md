@@ -34,8 +34,8 @@
   - [Microsoft Power BI Data Analyst](https://www.coursera.org/account/accomplishments/professional-cert/GAZLL2VE9XAM)
   - [IBM Data Science](https://www.coursera.org/account/accomplishments/professional-cert/73LM6HYD1I4C)
   - [IBM Data Analyst](https://www.coursera.org/account/accomplishments/professional-cert/LKJ7O9S24KQT)
-  - Studied towards a Master's degree in Informatics Engineering, with partial completion @ [ISEC - More Details](https://www.ipc.pt/en/formative-offer/isec/master/master-in-computer-engineering/)
-  - Bachelor's degree in Civil Engineering @ [ISEC - More Details](https://www.ipc.pt/en/formative-offer/isec/bachelor/bachelor-in-civil-enginnering/)
+  - Studied towards degree in Informatics Engineering, with partial completion @ [ISEC - More Details](https://www.ipc.pt/en/formative-offer/isec/master/master-in-computer-engineering/)
+  - Degree in Civil Engineering @ [ISEC - More Details](https://www.ipc.pt/en/formative-offer/isec/bachelor/bachelor-in-civil-enginnering/)
   
 
 # Projects
