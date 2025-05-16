@@ -29,6 +29,7 @@
 <br>
 # Education / Certifications
   - [Credly Badget Wallet](https://www.credly.com/users/ricardo-ferreira.1f231eb7)
+  - In Progress [IBM Machine Learning](https://www.coursera.org/professional-certificates/ibm-machine-learning)
   - [Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/KUM1UREERX8W)
   - [Microsoft Power BI Data Analyst](https://www.coursera.org/account/accomplishments/professional-cert/GAZLL2VE9XAM)
   - [IBM Data Science](https://www.coursera.org/account/accomplishments/professional-cert/73LM6HYD1I4C)
